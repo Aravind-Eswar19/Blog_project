@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    border: 2px solid gainsboro;
+    border: 8px solid gainsboro;
     display: flex;
 }
 header h1 a {
